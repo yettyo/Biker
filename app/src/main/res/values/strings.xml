@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Biker</string>
+    <string name="biker_logo">Biker Logo</string>
+    <string name="biker_login_image">Biker Login Image</string>
+    <string name="biker">Biker.</string>
+    <string name="username_or_email_address">Username or Email address</string>
+    <string name="please_sign_in_to_continue">Please sign in to continue.</string>
+    <string name="password">Password</string>
+    <string name="biker_login_prompt">biker login prompt</string>
+    <string name="logintext">Login</string>
+    <string name="login" tools:ignore="DuplicateDefinition">Login</string>
+    <string name="user_image">user image</string>
+    <string name="lock_image">lock image</string>
+    <string name="biker_login_text">biker_login_text</string>
+</resources>
